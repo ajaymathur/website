@@ -4,7 +4,7 @@ const users = require('./_data/users.json');
 
 const siteConfig = {
   title: 'Bolt' /* title for your website */,
-  tagline: '⚡️ Super-powered JavaScript project management',
+  tagline: '⚡️ ️️⚡️ ️️⚡️ ️️⚡️ ️️⚡️ ️️⚡️ ️️⚡️ ️️⚡️ ️️⚡️ ️️⚡️ ️️⚡️ ️️⚡️ ️️⚡️️',
   url: 'http://boltpkg.com/' /* your website url */,
   baseUrl: '/' /* base url for your project */,
   projectName: 'bolt',
